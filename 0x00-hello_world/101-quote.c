@@ -6,11 +6,11 @@
 
 /**
  *
- * *main - Entry point
+ * main - Entry point
  *
- * *Return: Always 1
+ * Return 1 (success)
  *
- * */
+ */
 
 
 
