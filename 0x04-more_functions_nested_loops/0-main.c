@@ -10,8 +10,8 @@ int main(void)
 	char c;
 
 	c = 'A';
-	printf("%c: %d\n", _isupper(c));
+	printf("%c: %d\n", c, _isupper(c));
 	c = 'a';
-	print("%c: %d\n", c, _isupper(c));
+	printf("%c: %d\n", c, _isupper(c));
 	return (0);
-}	
+}
